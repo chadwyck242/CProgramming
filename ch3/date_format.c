@@ -1,3 +1,4 @@
+// Chapter 3 Programming Project #1
 // convert mm /dd/yyyy to yyyymmdd format
 
 #include <stdio.h>
